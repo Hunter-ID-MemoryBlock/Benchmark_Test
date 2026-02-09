@@ -124,7 +124,7 @@ Bei Temperatur 0 sollten die Antworten nahezu identisch sein. Wenn sie es nicht 
 **Bewertung ist manuell.** Automatisierte LLM-Bewertung (LLM-as-a-Judge) erreicht nur ~66% Übereinstimmung mit menschlichen Experten bei komplexen Aufgaben (GDPval-Studie, OpenAI 2025). Für strategische Qualität ist menschliche Bewertung nach wie vor der Goldstandard.
 
 ## Mitmachen
-
+results/run_20260207_144751/DETAILREICHEN_pitch.html
 Jeder kann diesen Benchmark mit eigenen Modellen oder eigener Bewertung durchführen.
 
 **Ergebnisse einreichen:**
@@ -152,7 +152,7 @@ MIT – verwenden, forken, erweitern.
 - Artificial Analysis Intelligence Index v4.0: >10 Repeats für 95% CI (±1%)
 - GDPval (OpenAI, Oktober 2025): 44 Berufe, echte Arbeitsprodukte, Expert:innen-Bewertung
 - Bewertungsmethodik orientiert am GDPval-Prinzip: Praxisnähe vor akademischer Reinheit
-
+results/run_20260207_144751/DETAILREICHEN_pitch.html
 ---
 
 Gerald T. Pögl
